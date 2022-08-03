@@ -4,7 +4,7 @@ Uranium furnaces
 Adds uranium furnaces which use uranium gems instead of normal fuel. The more gems you put in the faster the furnace goes.
 
 Version: 1.1
-License: LGPL 2.1 or later
+License: LGPL 2.1 only
 Dependencies: default mod and dyes mod
 
 Report bugs or request help on the forum topic.
